@@ -1,0 +1,9 @@
+.classpath
+.idea/
+.project
+.factorypath
+.settings/
+*.iml
+test-output/
+target/
+*.versionsBackup
